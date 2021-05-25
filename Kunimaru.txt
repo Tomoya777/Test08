@@ -1,0 +1,2 @@
+a
+This sentence written by echo
